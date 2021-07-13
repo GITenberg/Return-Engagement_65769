@@ -1,0 +1,29 @@
+_repo: Return-Engagement_65769
+_version: 0.0.1
+creator:
+  author:
+    agent_name: St. Clair, Margaret
+    aliases:
+    - Clair, Margaret St.
+    - Saint Clair, Margaret
+    - Clair, M. St.
+    - Hazzard, Wilton
+    - Seabright, Idris
+    birthdate: 1911
+    deathdate: 1995
+    gutenberg_agent_id: '51121'
+    url: http://www.gutenberg.org/2009/agents/51121
+    wikipedia: https://en.wikipedia.org/wiki/Margaret_St._Clair
+description: ''
+gutenberg_issued: '2021-07-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65769'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Return Engagement
+url: http://www.gutenberg.org/ebooks/65769
